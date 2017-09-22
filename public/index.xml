@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>x-camp</title>
+    <link>http://example.org/</link>
+    <description>Recent content on x-camp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Sep 2017 14:05:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://example.org/posts/my-second-post/</link>
+      <pubDate>Sat, 16 Sep 2017 14:05:11 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-second-post/</guid>
+      <description>x-camp内容安排 x-camp的使命寻找改变世界的疯子
+内容包括了八节课：
+第一节，团队建设和创业者应知应会
+第二节，IT工具
+第三节，认识自己
+第四节，认识产品
+第五节，认识营销
+第六节，认识投资
+第七节，认识管理
+第八节，最终汇报演出</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 16 Sep 2017 14:01:11 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>x-camp简介 x-camp是校园VC和清华x-lab合办的创业加速营，将于2017年9月在清华大学开展。
+宗旨 帮助创业者找到正确的创业方向 提升创业者对创业的认知</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "http://www.cydog.cn/"
 languageCode = "en-us"
 title = "x-camp"
 theme = "ananke"
